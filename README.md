@@ -70,6 +70,7 @@ Here are my top projects demonstrating system design, backend mastery, and full-
 
 | 🏷️ Project | 💡 Description & Features | 🚀 Tech Stack |
 |:---|:---|:---|
+| **[Skincare Stock Reconciliation](https://github.com/B3rlinSugi/skincare-stock-reconciliation)** | 📦 **Enterprise Stock Engine**<br>A fraud-proof stock management system engineered for high-volume Skincare brands. Features real-time FEFO allocation & Ledger Architecture. | Next.js 14, Supabase, PostgreSQL |
 | **[Student Management API](https://github.com/B3rlinSugi/student-management-api)** | 🏢 **Production-Grade API**<br>A robust RESTful API featuring high-level security with JWT and strict RBAC. Prevents data loss via Eloquent Soft Deletes. | Laravel 9, PHP 8, MySQL, JWT |
 | **[Spring Boot API](https://github.com/B3rlinSugi/springboot-student-api)** | ☕ **Java Enterprise Backend**<br>A centralized backend API utilizing JPA/Hibernate for advanced ORM. Demonstrates strict layered architecture (N-Tier). | Java 17, Spring Boot, Hibernate |
 | **[Tokoku E-Commerce](https://github.com/B3rlinSugi/tokoku-ecommerce)** | 🛒 **Relational Masterpiece**<br>Built purely with PHP Native. Features a complex 10-Table Relational Database, Voucher Engines, and real-time stock tracking. | PHP 8, MySQL, PDO, Bcrypt |

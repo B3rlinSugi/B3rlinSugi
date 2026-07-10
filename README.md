@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3040,100:00D9FF&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=00D9FF&fontAlignY=35&desc=Backend%20Developer%20%C2%B7%20API%20Architecture%20%C2%B7%20Database%20Design&descAlignY=55&descSize=16&descColor=8B949E&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3040,100:00D9FF&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=00D9FF&fontAlignY=35&desc=Backend%20Software%20Engineer%20%C2%B7%20API%20Architecture%20%C2%B7%20Database%20Design&descAlignY=55&descSize=16&descColor=8B949E&animation=fadeIn" />
 
 <a href="https://berlinsugi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Building+reliable+backend+systems...;Focusing+on+APIs+%26+Auth+Systems...;Prioritizing+performance+%26+reliability...;BNSP+Certified+Junior+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Backend+Software+Engineer;Focusing+on+APIs+%26+Database+Integrity...;Delivering+Full-Stack+MVPs...;BNSP+Certified+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,51 +27,56 @@
 
 ## 👨‍💻 About Me
 
-**I'm Berlin — a backend developer and Informatics graduate from Gunadarma University.** 
-I design and build REST APIs, authentication systems, and database architectures that are secure, scalable, and structured for production. I believe that great engineering deserves great design.
+**Halo! I'm Berlin — a Backend Software Engineer and Informatics graduate from Gunadarma University.** 
 
-- 🎯 **Current Focus**: Building reliable backend systems for real-world use.
-- 🎓 **Education & Certification**: S1 Informatics Engineering & BNSP Certified Junior Web Developer (2025).
+I specialize in designing and building REST APIs, robust authentication systems (JWT/RBAC), and relational database architectures (MySQL/PostgreSQL) that are secure, scalable, and structured for production environments. 
+
+While my core expertise is behind the server, I am also a **T-Shaped Developer**. I leverage modern frontend technologies like Next.js and React to deliver end-to-end web applications (Full-Stack MVPs).
+
+- 🏢 **Core Focus**: Enterprise Architecture, Security (PDO, Bcrypt), Data Integrity (`ON DELETE RESTRICT`).
+- 🎯 **Current Goal**: Delivering reliable, high-performance systems for real-world business cases.
+- 🎓 **Education**: S1 Informatics Engineering & BNSP Certified Junior Web Developer.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <strong>Backend & Databases</strong><br>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
+<p align="center">
+  <strong>Frontend Integration</strong><br>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+</p>
+
 ---
 
-## 🚀 Projects
+## 🚀 Highlighted Engineering Projects
 
-| Project | Description & Features | Tech Stack |
-|---|---|---|
-| **[HL Finance Management](https://github.com/B3rlinSugi/hl-finance-app)** | A modern Sales & Receivables Management platform featuring an elegant Glassmorphism UI and robust real-time analytics. Built on Next.js 15+ and Supabase.<br><br>**Features:** Edge Authentication Proxy, Tier-based Customer System, Real-time Analytics Dashboard, Server-Side Pagination. | Next.js, Supabase, TypeScript, Tailwind CSS, Zustand |
-| **[Prime Property](https://github.com/B3rlinSugi/prime-property)** | A modern full-stack property platform designed to provide a seamless property search experience. Features dynamic search and filtering, along with an elegant, responsive UI.<br><br>**Features:** Property Listings & Filtering, Secure NextAuth Authentication, Premium Scroll Animations. | TypeScript, Next.js, PostgreSQL, Prisma ORM, Auth.js |
-| **[Tokoku E-Commerce](https://github.com/B3rlinSugi/tokoku-ecommerce)** | A comprehensive backend-first e-commerce web application built from scratch using PHP Native (MVC) and MySQL. Handles the entire user shopping lifecycle.<br><br>**Features:** 10-Table Relational Database, Voucher Discount Engine, RBAC Authentication (bcrypt), Real-time Stock Tracking. | PHP 8, MySQL 8, Bootstrap 5, PDO, bcrypt |
-| **[Student Management API](https://github.com/B3rlinSugi/student-management-api)** | A production-grade RESTful API for student data management, developed using the Laravel framework. Highlights high-level security with JWT and strict RBAC.<br><br>**Features:** Secure JWT Authentication, Role-Based Access Control, Soft Deletion Mechanism, RESTful Architecture. | Laravel, PHP, MySQL, JWT |
-| **[Spring Boot Student API](https://github.com/B3rlinSugi/springboot-student-api)** | A centralized backend API service for managing academic entities, built within the Java Spring Boot ecosystem. Utilizes JPA/Hibernate for advanced ORM.<br><br>**Features:** Enterprise-grade Architecture, REST API Endpoints, JPA/Hibernate ORM. | Java, Spring Boot, Hibernate |
-| **[CRUD Akademik](https://github.com/B3rlinSugi/crud-akademik)** | An interactive academic data management system with multi-role access (Admin & Staff). Focuses on robust database integrity using foreign key constraints and PDO.<br><br>**Features:** Multi-role System (RBAC), Database Integrity, PDF Report Generation. | PHP 8, MySQL 8, Bootstrap 5, TCPDF/FPDF |
-| **[Cash Flow](https://github.com/B3rlinSugi/cash-flow)** | A robust financial tracking application upgraded from legacy code, focusing on security migration (MD5 to bcrypt) and schema redesign. Supports dual databases.<br><br>**Features:** MD5 to Bcrypt Migration, Dual Database Support, Interactive Analytics Dashboard. | PHP 8, PostgreSQL, MySQL, bcrypt |
+Here are my top projects demonstrating system design, backend mastery, and full-stack capabilities:
+
+| 🏷️ Project | 💡 Description & Features | 🚀 Tech Stack |
+|:---|:---|:---|
+| **[Student Management API](https://github.com/B3rlinSugi/student-management-api)** | 🏢 **Production-Grade API**<br>A robust RESTful API featuring high-level security with JWT and strict RBAC. Prevents data loss via Eloquent Soft Deletes. | Laravel 9, PHP 8, MySQL, JWT |
+| **[Spring Boot API](https://github.com/B3rlinSugi/springboot-student-api)** | ☕ **Java Enterprise Backend**<br>A centralized backend API utilizing JPA/Hibernate for advanced ORM. Demonstrates strict layered architecture (N-Tier). | Java 17, Spring Boot, Hibernate |
+| **[Tokoku E-Commerce](https://github.com/B3rlinSugi/tokoku-ecommerce)** | 🛒 **Relational Masterpiece**<br>Built purely with PHP Native. Features a complex 10-Table Relational Database, Voucher Engines, and real-time stock tracking. | PHP 8, MySQL, PDO, Bcrypt |
+| **[CRUD Akademik](https://github.com/B3rlinSugi/crud-akademik)** | 🔒 **Database Integrity Focus**<br>Showcases strict database integrity using `ON DELETE RESTRICT` foreign keys and PDO to prevent orphaned records. | PHP 8, MySQL, Bootstrap 5 |
+| **[Cash Flow](https://github.com/B3rlinSugi/cash-flow)** | 💸 **Legacy Modernization**<br>A financial app upgraded from vulnerable legacy code. Features MD5 to Bcrypt migration and dual DB support (MySQL/PostgreSQL). | PHP 8, PostgreSQL, MySQL |
+| **[HL Finance App](https://github.com/B3rlinSugi/hl-finance-app)** | 💎 **Modern Full-Stack UI**<br>A Next-Gen Sales platform with Serverless Edge Auth, Glassmorphism UI, and real-time analytics using React Server Components. | Next.js 15, TypeScript, Supabase |
+| **[Prime Property](https://github.com/B3rlinSugi/prime-property)** | 🏢 **Full-Stack Next.js**<br>A property platform showcasing dynamic search, secure NextAuth, Prisma ORM, and high-performance server components. | Next.js, Prisma, PostgreSQL |
 
 ---
 

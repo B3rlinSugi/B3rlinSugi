@@ -1,9 +1,9 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0a3040,100:00D9FF&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=00D9FF&fontAlignY=35&desc=Backend%20Software%20Engineer%20%C2%B7%20API%20Architecture%20%C2%B7%20Database%20Design&descAlignY=55&descSize=16&descColor=8B949E&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:FF6B00,100:FFB000&height=220&section=header&text=Berlin%20Sugiyanto&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%C2%B7%20Scalable%20Systems%20%C2%B7%20Elegant%20UIs&descAlignY=55&descSize=16&descColor=dddddd&animation=fadeIn" />
 
 <a href="https://berlinsugi.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Backend+Software+Engineer;Focusing+on+APIs+%26+Database+Integrity...;Delivering+Full-Stack+MVPs...;BNSP+Certified+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=FF6B00&background=0D1117&center=true&vCenter=true&multiline=false&width=600&lines=Full-Stack+Software+Engineer;Engineering+Robust+Systems...;Seamless+UIs+%26+Secure+APIs...;BNSP+Certified+Web+Developer" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,15 +27,32 @@
 
 ## 👨‍💻 About Me
 
-**Halo! I'm Berlin — a Backend Software Engineer and Informatics graduate from Gunadarma University.** 
+**Halo! I'm Berlin — a Full-Stack Software Engineer and Informatics graduate from Gunadarma University.** 
 
-I specialize in designing and building REST APIs, robust authentication systems (JWT/RBAC), and relational database architectures (MySQL/PostgreSQL) that are secure, scalable, and structured for production environments. 
+I specialize in engineering robust full-stack applications, seamlessly bridging the gap between scalable backend architectures (Node.js/Next.js/Laravel) and highly interactive, pixel-perfect frontends (React/Next.js).
 
-While my core expertise is behind the server, I am also a **T-Shaped Developer**. I leverage modern frontend technologies like Next.js and React to deliver end-to-end web applications (Full-Stack MVPs).
+My approach combines enterprise-grade database design (PostgreSQL/MySQL) with modern UI/UX principles (Glassmorphism, Tailwind CSS) to deliver products that are not just functionally flawless, but visually stunning.
 
-- 🏢 **Core Focus**: Enterprise Architecture, Security (PDO, Bcrypt), Data Integrity (`ON DELETE RESTRICT`).
-- 🎯 **Current Goal**: Delivering reliable, high-performance systems for real-world business cases.
-- 🎓 **Education**: S1 Informatics Engineering & BNSP Certified Junior Web Developer.
+- 🏢 **Core Focus**: Full-Stack Architecture, Real-world Scalability, Elegant User Interfaces.
+- 🎯 **Current Goal**: Delivering reliable, high-performance web systems that users love.
+- 🎓 **Credentials**: S1 Informatics Engineering & BNSP Certified Web Developer.
+
+---
+
+## 🏆 Certifications & Credentials
+
+*Solid proof of competence for Engineering Leads and HR.*
+
+<p align="center">
+  <a href="https://linkedin.com/in/berlinsugi">
+    <img src="https://img.shields.io/badge/Certified-BNSP_Web_Developer-FF6B00?style=for-the-badge&logo=codeigniter&logoColor=white" alt="BNSP Certificate" />
+  </a>
+  <a href="https://linkedin.com/in/berlinsugi">
+    <img src="https://img.shields.io/badge/Degree-S1_Informatics_Engineering-4169E1?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Degree" />
+  </a>
+</p>
+
+*(Note: Official certificate documents and verification can be viewed directly on my [LinkedIn Profile](https://linkedin.com/in/berlinsugi) or requested via email).*
 
 ---
 
@@ -87,13 +104,13 @@ Here are my top projects demonstrating system design, backend mastery, and full-
   <table>
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=B3rlinSugi&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&icon_color=FFB000&text_color=8B949E&show_icons=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B3rlinSugi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=8B949E" alt="Top Languages" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B3rlinSugi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B00&text_color=8B949E" alt="Top Languages" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com?user=B3rlinSugi&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com?user=B3rlinSugi&theme=tokyonight&hide_border=true&background=0D1117&ring=FF6B00&fire=FFB000&currStreakLabel=FF6B00" alt="GitHub Streak" />
       </td>
     </tr>
   </table>
@@ -112,5 +129,5 @@ Here are my top projects demonstrating system design, backend mastery, and full-
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0a3040,100:0D1117&height=120&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,50:FFB000,100:0D1117&height=120&section=footer" />
 </div>
